@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Iron_2" size="128.000000 139.733337" />
+    <ImageTarget name="Gold_2" size="128.000000 140.827881" />
+    <ImageTarget name="Carbon_2" size="128.000000 137.983292" />
+    <ImageTarget name="iron" size="1.000000 1.000000" />
+    <ImageTarget name="gold" size="1.000000 1.000000" />
+    <ImageTarget name="carbono" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
